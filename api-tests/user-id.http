@@ -1,0 +1,2 @@
+GET http://localhost:8080/users/4321
+Authorization: bearer token
